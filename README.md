@@ -20,7 +20,7 @@ This repository should eventually contain the famous "Hello World" program in al
 ## How to make changes?
 
 - Check if the language in which you want to contribute is already covered or not?
-- Add code for your language with file name `[language-name].[language-extension]` like `python.py` for python. `javascript.js` for language Javascript. Or you can also name the file like `HelloWorld.[language-extension]`.
+- Name the file whatever you want. (tip: Add code for your language with file name `[language-name].[language-extension]` like `python.py` for python. `javascript.js` for language Javascript. Or you can also name the file like `HelloWorld.[language-extension]`)
 
 ## Languages That Can Be Covered
 
