@@ -6,3 +6,7 @@ A "Hello, World!" program is a PC program that yields or shows "Hello, World!" t
 
 ### Contributing guide
 Add your hello world programs in the respective folders for the different languages. If the folder doesn't exist, create one. Feel free to add more programs, even if a program for the language already exists.
+
+
+### Inspired by:
+- https://github.com/blackbird71SR/Hello-World
