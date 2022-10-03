@@ -20,10 +20,9 @@ This repository should eventually contain the famous "Hello World" program in al
 ## How to make changes?
 
 - Check if the language in which you want to contribute is already covered or not?
-- Add code for your language with file name `HelloWorld.extension of your programming language` like `py` for python. `c` for language C.
-- Add your language to this file in the below list.
+- Add code for your language with file name `[language-name].[language-extension]` like `python.py` for python. `javascript.js` for language Javascript.
 
-## Languages Covered
+## Languages That Can Be Covered
 
 - [x] **ABAP**
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
