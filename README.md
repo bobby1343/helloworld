@@ -139,6 +139,8 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Matlab**
 
+MATLAB is a high-level programming language designed for engineers and scientists that expresses matrix and array mathematics directly. You can use MATLAB for everything, from running simple interactive commands to developing large-scale applications.
+
 - [x] **Nim**
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
@@ -163,6 +165,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **PowerShell**
 
+PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
+
 - [x] **Prolog**
 
 - [x] **Python**
@@ -170,6 +174,9 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 - [x] **R**
 
 - [x] **Ruby**
+
+Ruby is a language of careful balance. Its creator, Yukihiro “Matz” Matsumoto, blended parts of his favorite languages (Perl, Smalltalk, Eiffel, Ada, and Lisp) to form a new language that balanced functional programming with imperative programming.
+He has often said that he is “trying to make Ruby natural, not simple,” in a way that mirrors life.
 
 - [x] **Rust**
 
@@ -181,9 +188,13 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **Shell**
 
+A shell is a type of computer program called a command-line interpreter that lets Linux and Unix users control their operating systems with command-line interfaces. Shells allow users to communicate efficiently and directly with their operating systems. Shell scripting is one of the simplest ways to set up automation. Using Linux or Unix commands, shell scripting gives data scientists, DevOps, and TechOps people conditional and loop control structures to repeat commands.A shell has two categories, command-line shell and graphical shell. Command-line shells are accessed using command-line interfaces where systems receive input in human-readable commands and then use the command-line interfaces to display the output. 
+
 - [x] **Solidity**
 
 - [x] **SQL**
+
+SQL (structured query language) is a language for specifying the organization of databases (collections of records). Databases organized with SQL are called relational, because SQL provides the ability to query a database for information that falls in a given relation. SQL stands for Structured Query Language. Essentially, it’s a language that allows communication with databases in order to manage all the data they contain. 
 
 - [x] **Standard ML**
 
@@ -195,7 +206,11 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 
 - [x] **Tool Comman Language(TCL)**
 
+Tool command language (Tcl) is a powerful scripting language with programming features. It is available across Unix, Windows and Mac OS platforms. Tcl is used for Web and desktop applications, networking, administration, testing, rapid prototyping, scripted applications and graphical user interfaces (GUI).Tcl interfaces with the C language. Arrays of values that describe command arguments are passed to the command implementation functions.Tcl supports extension packages for additional functionality, including GUI, terminal-based application automation and database access.
+
 - [x] **TypeScript**
+
+TypeScript is a free and open source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language. It is designed for the development of large applications and transpiles to JavaScript.
 
 - [x] **VB.NET**
 
