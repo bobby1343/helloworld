@@ -139,6 +139,8 @@ Kotlin is a statically typed programming language that runs on the Java virtual 
 
 - [x] **Matlab**
 
+MATLAB is a high-level programming language designed for engineers and scientists that expresses matrix and array mathematics directly. You can use MATLAB for everything, from running simple interactive commands to developing large-scale applications.
+
 - [x] **Nim**
 
 Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package.
@@ -163,6 +165,8 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 
 - [x] **PowerShell**
 
+PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
+
 - [x] **Prolog**
 
 - [x] **Python**
@@ -170,6 +174,9 @@ PHP: Hypertext Preprocessor is a server-side scripting language designed for Web
 - [x] **R**
 
 - [x] **Ruby**
+
+Ruby is a language of careful balance. Its creator, Yukihiro “Matz” Matsumoto, blended parts of his favorite languages (Perl, Smalltalk, Eiffel, Ada, and Lisp) to form a new language that balanced functional programming with imperative programming.
+He has often said that he is “trying to make Ruby natural, not simple,” in a way that mirrors life.
 
 - [x] **Rust**
 
@@ -196,6 +203,8 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 - [x] **Tool Comman Language(TCL)**
 
 - [x] **TypeScript**
+
+TypeScript is a free and open source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language. It is designed for the development of large applications and transpiles to JavaScript.
 
 - [x] **VB.NET**
 
