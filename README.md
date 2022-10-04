@@ -188,9 +188,13 @@ The Shakespeare Programming Language is a programming language created with the 
 
 - [x] **Shell**
 
+A shell is a type of computer program called a command-line interpreter that lets Linux and Unix users control their operating systems with command-line interfaces. Shells allow users to communicate efficiently and directly with their operating systems. Shell scripting is one of the simplest ways to set up automation. Using Linux or Unix commands, shell scripting gives data scientists, DevOps, and TechOps people conditional and loop control structures to repeat commands.A shell has two categories, command-line shell and graphical shell. Command-line shells are accessed using command-line interfaces where systems receive input in human-readable commands and then use the command-line interfaces to display the output. 
+
 - [x] **Solidity**
 
 - [x] **SQL**
+
+SQL (structured query language) is a language for specifying the organization of databases (collections of records). Databases organized with SQL are called relational, because SQL provides the ability to query a database for information that falls in a given relation. SQL stands for Structured Query Language. Essentially, it’s a language that allows communication with databases in order to manage all the data they contain. 
 
 - [x] **Standard ML**
 
@@ -201,6 +205,8 @@ Standard ML is a general-purpose, modular, functional programming language with 
 Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, macOS, watchOS, tvOS, and Linux. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products.
 
 - [x] **Tool Comman Language(TCL)**
+
+Tool command language (Tcl) is a powerful scripting language with programming features. It is available across Unix, Windows and Mac OS platforms. Tcl is used for Web and desktop applications, networking, administration, testing, rapid prototyping, scripted applications and graphical user interfaces (GUI).Tcl interfaces with the C language. Arrays of values that describe command arguments are passed to the command implementation functions.Tcl supports extension packages for additional functionality, including GUI, terminal-based application automation and database access.
 
 - [x] **TypeScript**
 
