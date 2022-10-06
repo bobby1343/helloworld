@@ -37,53 +37,7 @@ BASIC is a family of general-purpose, high-level programming languages whose des
   
 BASIC is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. In 1964, John G. Kemeny and Thomas E. Kurtz designed the original BASIC language at Dartmouth College. They wanted to enable students in fields other than science and mathematics to use computers.
 
-- [x] **Batch**
 
-A batch file is a kind of script file in DOS, OS/2 and Microsoft Windows. It consists of a series of commands to be executed by the command-line interpreter, stored in a plain text file.
-
-- [x] **Brainfuck**
-Brainfuck is an esoteric programming language created in 1993 by Urban Müller, and notable for its extreme minimalism. The language consists of only eight simple commands and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers.
-
-- [x] **C**
-
-C is a high-level and general-purpose programming language that is ideal for developing firmware or portable applications. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early 1970s.
-
-- [x] **C#**
-
-C# is a general-purpose, multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. It was developed around 2000 by Microsoft within its .NET initiative and later approved as a standard by Ecma and ISO.
-
-- [x] **C++**
-
-C++ is a general-purpose object-oriented programming (OOP) language, developed by Bjarne Stroustrup, and is an extension of the C language. It is therefore possible to code C++ in a "C style" or "object-oriented style." C++ is considered to be an intermediate-level language, as it encapsulates both high- and low-level language features. Initially, the language was called "C with classes" as it had all the properties of the C language with an additional concept of "classes."
-
-- [x] **Cobol**
-
-COBOL is a compiled English-like computer programming language designed for business use. It is imperative, procedural and, since 2002, object-oriented. COBOL is primarily used in business, finance, and administrative systems for companies and governments.
-
-- [x] **COOL**
-
-COOL or Classroom Object Oriented Language is used for teaching compilers and is the only language which has more number of compilers than the number of programs written in it.  It generates code for a MIPS simulator, SPIM. Thus it is easily portable to other platforms. It has many of the features of modern programming languages, including objects, automatic memory management, strong static typing and simple reflection.
-
-- [x] **CoffeeScript**
-
-CoffeeScript is a programming language that transcompiles to JavaScript. It adds syntactic sugar inspired by Ruby, Python and Haskell in an effort to enhance JavaScript's brevity and readability.Specific additional features include list comprehension and pattern matc
-- [x] **ClojureScript**
-
-Clojure is a dialect of the Lisp programming language. Clojure is a general-purpose programming language with an emphasis on functional programming. It runs on the Java virtual machine and the Common Language Runtime.
-
-- [x] **Crystal**
-
-Crystal is a programming language that is still under development which aims to provide a programming experience that is “Fast as C, slick as Ruby”.
-
-- [x] **D**
-
-D is an object-oriented, imperative, multi-paradigm system programming language created by Walter Bright of Digital Mars and released in 2001. Bright was joined in the design and development effort in 2007 by Andrei Alexandrescu.
-
-- [x] **Dart**
-
-Dart is a general-purpose programming language originally developed by Google and later has been standardized. It is used to build web, server, and mobile applications. It's getting more and more exposed through Flutter cross-platform mobile development framework. Dart is an object-oriented, class defined language using the good-old C-style syntax that can be optionally compiled into JavaScript. It supports interfaces, mixins, abstract classes, reified generics, static typing, and a sound type system.
-
-- [x] **Delphi**
 
 Delphi is both an object oriented programming language (OOP) and an Integrated Development Environment (IDE). Published by the Embarcadero company (formerly CodeGear and more formerly Borland), Delphi is an alternative to language such as Visual Basic offering development with both rapidity and good quality. 
 
